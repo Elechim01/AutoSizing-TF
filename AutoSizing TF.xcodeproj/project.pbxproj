@@ -11,6 +11,7 @@
 		C4161C5F2645D7D40002521A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4161C5E2645D7D40002521A /* ContentView.swift */; };
 		C4161C612645D7D60002521A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4161C602645D7D60002521A /* Assets.xcassets */; };
 		C4161C642645D7D60002521A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4161C632645D7D60002521A /* Preview Assets.xcassets */; };
+		C4161C6C2645D84D0002521A /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4161C6B2645D84D0002521A /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		C4161C602645D7D60002521A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C4161C632645D7D60002521A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C4161C652645D7D60002521A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C4161C6B2645D84D0002521A /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				C4161C5C2645D7D40002521A /* AutoSizing_TFApp.swift */,
 				C4161C5E2645D7D40002521A /* ContentView.swift */,
+				C4161C6B2645D84D0002521A /* HomeView.swift */,
 				C4161C602645D7D60002521A /* Assets.xcassets */,
 				C4161C652645D7D60002521A /* Info.plist */,
 				C4161C622645D7D60002521A /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C4161C6C2645D84D0002521A /* HomeView.swift in Sources */,
 				C4161C5F2645D7D40002521A /* ContentView.swift in Sources */,
 				C4161C5D2645D7D40002521A /* AutoSizing_TFApp.swift in Sources */,
 			);
